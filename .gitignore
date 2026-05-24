@@ -1,0 +1,6 @@
+```gitignore id="m6qg2j"
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+.DS_Store
+```
+
